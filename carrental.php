@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
 <link rel="stylesheet1" href="carrental.css">
+<link rel="stylesheet1" href="carrental.css">
+<link rel="stylesheet1" href="carrental.css">
+<link rel="stylesheet1" href="carrental.css">
+<link rel="stylesheet1" href="carrental.css">
+<link rel="stylesheet1" href="carrental.css">
 <title>Page Title</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
