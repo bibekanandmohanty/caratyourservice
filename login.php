@@ -1,6 +1,9 @@
 <html>
 <head>
 <link rel="stylesheet" href="carrental.css">
+<link rel="stylesheet" href="carrental.css">
+<link rel="stylesheet" href="carrental.css">
+<link rel="stylesheet" href="carrental.css">
 
 </head>
 <body>
