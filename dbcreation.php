@@ -3,6 +3,10 @@ $server="localhost";
 $username = "root";
 $pwd="";
 $con = mysqli_connect($server,$username,$pwd);
+$con = mysqli_connect($server,$username,$pwd);
+$con = mysqli_connect($server,$username,$pwd);
+$con = mysqli_connect($server,$username,$pwd);
+$con = mysqli_connect($server,$username,$pwd);
 
 if(!$con){
 echo"Connection failed".mysqli_error($con);
