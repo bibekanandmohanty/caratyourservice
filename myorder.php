@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
+<!DOCTYPE html>
+<!DOCTYPE html>
 <?php
 	include "checksession.php";
 	
