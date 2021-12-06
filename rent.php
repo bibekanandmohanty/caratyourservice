@@ -11,6 +11,14 @@ $rs = mysqli_fetch_array($r);
 	?>
 <html>
 <head>
+<head>
+<head>
+<head>
+<head>
+<head>
+<head>
+<head>
+<head>
 <link rel="stylesheet" href="carrental.css">
 </head>
 <body>
