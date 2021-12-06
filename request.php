@@ -12,6 +12,12 @@ $distance=$_POST['distance'];
 $carid=$_POST['carid'];
 $dln=$_POST['dln'];
 $sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
+$sql = "INSERT INTO request(uname,no,cc,dc,doi,dor,distance,carid,dln) values('$username','$no','$cc','$dc','$doi','$dor','$distance','$carid','$dln')";
 mysqli_query($link,$sql);
 header("location:rent.php");
 ?>
