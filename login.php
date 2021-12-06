@@ -8,6 +8,12 @@
 </head>
 <body>
 <div class="navbar">
+<div class="navbar">
+<div class="navbar">
+<div class="navbar">
+<div class="navbar">
+<div class="navbar">
+<div class="navbar">
   <a href="carrental.php">Home</a>
   <a href="tarrif.php">Tarrifs</a>
   <a href="#">About us</a>
