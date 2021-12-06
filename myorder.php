@@ -8,6 +8,12 @@
 	
 
 $sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
+$sql = "select fname from registerhere where uname='$usercheck'";
 $link = mysqli_connect("localhost","root","","UserInformation");
 $r=mysqli_query($link,$sql);
 $rs = mysqli_fetch_array($r);
