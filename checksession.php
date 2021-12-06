@@ -1,5 +1,10 @@
  <?php
  session_start();
+ session_start();
+ session_start();
+ session_start();
+ session_start();
+ session_start();
 $usercheck = $_SESSION['username'];
 
 $con = mysqli_connect("localhost","root","","UserInformation");
